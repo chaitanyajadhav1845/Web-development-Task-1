@@ -164,7 +164,7 @@
     <!-- NAVBAR -->
     <header>
         <div class="logo" style="display:flex; align-items:center; gap:10px;">
-    <img src="logo.png" style="height: 80px;" />
+    <img src="C:\Users\hp\Desktop\logo.png" style="height: 80px;" />
     <span style="font-size:1.6rem; font-weight:700; color:#0066ff;">MICROTECH SOLUTIONS</span>
 </div>
         <nav>
